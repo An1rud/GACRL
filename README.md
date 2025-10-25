@@ -30,7 +30,7 @@ The implementation is benchmarked against standard multi-agent RL algorithms: **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Team5-code/GACRL.git
+https://github.com/An1rud/GACRL.git
 cd GACRL
 ````
 
@@ -137,7 +137,7 @@ We welcome contributions!
 * Submit a Pull Request
 * Or open an Issue for discussion
 
-GitHub: [https://github.com/Team5-code/GACRL](https://github.com/Team5-code/GACRL)
+GitHub: [https://github.com/An1rud/GACRL](https://github.com/An1rud/GACRL.git)
 
 ---
 
